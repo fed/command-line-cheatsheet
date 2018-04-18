@@ -96,6 +96,8 @@ lrwxr-xr-x     1 fknussel  staff     9B 29 Oct 16:00 RAWR.md@ -> README.md
 
 ## Permissions
 
+![Unix Permissions](https://i.imgur.com/OWioAlp.png)
+
 ```
 		   - rw- r-- r--
 			|-|---|---|---|
